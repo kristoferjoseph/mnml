@@ -5,6 +5,7 @@ bird-zz9
 
 @http
 get 
+get /
 
 @tables
 data
