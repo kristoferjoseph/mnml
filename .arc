@@ -4,7 +4,6 @@ bird-zz9
 @static
 
 @http
-get 
 get /
 
 @tables
